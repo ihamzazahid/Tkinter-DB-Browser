@@ -1,6 +1,7 @@
 # Tkinter-DB-Browser
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 A **rich GUI database browser** built with Tkinter for **MySQL, PostgreSQL, and MSSQL**.  
 It offers Excel-like table viewing with inline editing, column filtering, pagination, CSV export, and a dynamic responsive GUI.
 
