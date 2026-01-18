@@ -58,6 +58,17 @@ Tkinter-DB-Browser/
 └─ utils/
 </pre>
 
+## Screenshots
+
+### Login Window
+![Login Window](screenshots/login_window.png)
+
+### Main Window
+![Main Window](screenshots/main_window.png)
+
+### Table View with Filters
+![Table View](screenshots/table_view.png)
+
 ## 🤝 Contributing
 Open issues or submit PRs to improve the project.
 ## 📝 License
